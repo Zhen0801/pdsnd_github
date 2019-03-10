@@ -76,13 +76,7 @@ new_york_city.csv
 
 washington.csv
 
-
-The **original** files can be accessed here if you'd like to see them:
-
-[Chicago]
-
-[New York City]
-
-[Washington].
+The **original** files can be accessed here if you'd like to see them: [Chicago], [New York City], [Washington].
 
 ### Credits
+The data files and programming instructions are provided by Udactiy's [Programming for Data Science Nanodegree Program]. xinxin.
