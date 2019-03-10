@@ -7,6 +7,22 @@ README file: Mar-08-2019
 
 Project: Feb-25-2019
 
+### Install
+To run this project, you need:
+
+- A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
+
+- Install Python 3, NumPy, and pandas using [Anaconda](https://www.anaconda.com/distribution/).
+```
+    $ conda install python=3
+
+    $ conda install pandas=0.22
+```
+- run bikeshare.py
+
+     `$ python bikeshare.py`
+
+
 
 ### Information you can get from system
 
