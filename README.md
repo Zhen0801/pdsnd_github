@@ -80,4 +80,4 @@ The **original** datasets files can be accessed here if you'd like to see them: 
 _*All the data is provided by [Motivate](https://www.motivateco.com), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns._
 
 ## Credits
-The data files and programming instructions are provided by Udactiy's [Programming for Data Science Nanodegree Program]. :bowtie:
+The data files and programming instructions are provided by Udactiy's [Programming for Data Science Nanodegree Program](https://eu.udacity.com/course/programming-for-data-science-nanodegree--nd104). :bowtie:
