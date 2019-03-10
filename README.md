@@ -10,14 +10,13 @@ udacity-bikeshare creates an **interactive experience** in the terminal. It take
 ## Install
 To run this project, you need:
 
-- A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
+- A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
 
-- Install Python 3, NumPy, and pandas using [Anaconda](https://www.anaconda.com/distribution/).
-```
-    $ conda install python=3
+- Install [Python 3](https://www.python.org/downloads/) and [Anaconda](https://www.anaconda.com/distribution/)
+- Install pandas using Anaconda
 
-    $ conda install pandas=0.22
-```
+    `$ conda install pandas=0.22`
+
 - Run bikeshare.py
 
      `$ python bikeshare.py`
