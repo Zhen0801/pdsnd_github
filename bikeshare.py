@@ -7,7 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv'}
 
-months = ['january', 'february', 'march', 'april', 'may', 'june']
+months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun']
 
 
 def go_to_Motivate():
@@ -45,7 +45,7 @@ def get_filters():
         try:
             city = input('There are three cities : chicago, new york city and washington, which city would you like to explore?\n').lower()
             # TO DO: get user input for month (all, january, february, ... , june)
-            month = input('which month(s) would u like to explore? january, february, march, april, may, june or all ?\n').lower()
+            month = input('which month(s) would u like to explore? jan, feb, mar, apr, may, jun or all ?\n').lower()
             # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
             day = input('which day(s) would u like to explore? monday, tuesday, wednesday, thursday, friday, saturday, sunday or all?\n').lower()
             print('\nSo, you want to explore {}\'s US bikeshare data. Filter(s) are ->  month : {} ; day of the week: {} '.format(city, month, day))
