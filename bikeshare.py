@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-import numpy as np
 import webbrowser
 
 
@@ -25,8 +24,8 @@ def go_to_Motivate():
         else:
             print('Invalid input. Please try again:\n')
 
-        
-    
+
+
 
 
 
@@ -244,4 +243,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
