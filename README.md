@@ -45,12 +45,12 @@ To run this project, you need:
 * counts of each gender (only available for NYC and Chicago)
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
-#### 5 View original data from  three city dataset files
+#### 5 View original data from  three city's dataset files
 
 
 ## The Datasets
 
-The datasets for the first six months of 2017 is Randomly selected by **Udacity**.
+The datasets for the first six months of 2017 is Randomly selected by [**Udacity**](https://eu.udacity.com).
 
 All three of the data files contain the same core six (6) columns:
 
@@ -76,7 +76,9 @@ Three city dataset files:
 
 - washington.csv
 
-The **original** files can be accessed here if you'd like to see them: [Chicago], [New York City], [Washington].
+The **original** datasets files can be accessed here if you'd like to see them: [Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data).
+
+_*All the data is provided by [Motivate](https://www.motivateco.com), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns._
 
 ## Credits
 The data files and programming instructions are provided by Udactiy's [Programming for Data Science Nanodegree Program]. :bowtie:
